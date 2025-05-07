@@ -1,2 +1,1 @@
-Hello git!!!
-im changing 
+Added a new feature in hello.txt
